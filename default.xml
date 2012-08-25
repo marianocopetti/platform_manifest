@@ -276,7 +276,6 @@
 
   <!-- note: for defy+, use "aokp_mb526" for jordan revision, and "ics-plus_aokp" for proprietary_vendor_motorola -->
   <project path="packages/apps/FileManager" name="CyanogenMod/android_packages_apps_FileManager" remote="gh" revision="gingerbread" />
-  <project path="vendor/motorola" name="Kayant/proprietary_vendor_motorola" remote="github" revision="ics" />
   <project path="system/wlan/ti" name="tpruvot/android_system_wlan_ti" remote="github" revision="gingerbread" />
   <project path="external/DroidSSHd" name="tpruvot/android_external_droidsshd" remote="github" revision="ics" />
   <project path="packages/apps/HwaSettings" name="tpruvot/HwaSettings" remote="github" revision="ics" />
