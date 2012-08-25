@@ -123,7 +123,7 @@
   <project path="external/pcre" name="platform/external/pcre" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="external/ping" name="AOKP/external_ping" remote="gh" revision="ics" />
   <project path="external/ping6" name="AOKP/external_ping6" remote="gh" revision="ics" />
-  <project path="external/pigz" name="tpruvot/android_external_pigz" revision="ics" />
+  <project path="external/pigz" name="tpruvot/android_external_pigz" remote="github" revision="ics" />
   <project path="external/ppp" name="platform/external/ppp" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="external/proguard" name="platform/external/proguard" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="external/protobuf" name="platform/external/protobuf" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
@@ -132,7 +132,7 @@
   <project path="external/quake" name="platform/external/quake" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="external/replicaisland" name="platform/external/replicaisland" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="external/safe-iop" name="platform/external/safe-iop" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
-  <project path="external/skia" name="tpruvot/android_external_skia" revision="ics" />
+  <project path="external/skia" name="tpruvot/android_external_skia" remote="github" revision="ics" />
   <project path="external/sonivox" name="AOKP/external_sonivox" remote="gh" revision="ics" />
   <project path="external/speex" name="platform/external/speex" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="external/sqlite" name="platform/external/sqlite" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
@@ -259,7 +259,7 @@
   <project path="vendor/qcom/opensource/v8" name="AOKP/android_vendor_qcom_opensource_v8" remote="gh" revision="ics" />
   <project path="vendor/qcom/opensource/kernel-tests/mm-audio" name="AOKP/vendor_qcom_opensource_kernel-tests_mm-audio" remote="gh" revision="ics" />
 
-  <project path="external/busybox" name="tpruvot/android_external_busybox" revision="ics" />
+  <project path="external/busybox" name="tpruvot/android_external_busybox" remote="github" revision="ics" />
   <project path="system/su" name="AOKP/android_system_su" remote="gh" revision="ics" />
   <project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" remote="gh" revision="ics" />
   <project path="packages/apps/ROMControl" name="AOKP/packages_apps_ROMControl" remote="gh" revision="ics" />
@@ -281,9 +281,9 @@
   <project path="packages/apps/HwaSettings" name="tpruvot/HwaSettings" remote="github" revision="ics" />
   <project path="packages/apps/MotoFM" name="tpruvot/android_packages_apps_MotoFM" remote="github" revision="jellybean" />
   <project path="packages/apps/Usb" name="tpruvot/android_packages_apps_Usb" remote="github" revision="ics" />
-  <project path="device/motorola/jordan" name="tpruvot/android_device_motorola_jordan" revision="aokp_mb525" />
-  <project path="vendor/motorola" name="CyanogenDefy/proprietary_vendor_motorola" revision="ics" />
-  <project path="device/motorola/jordan" name="tpruvot/android_device_motorola_jordan" revision="aokp_mb526" />
+  <project path="device/motorola/jordan" name="tpruvot/android_device_motorola_jordan" remote="github" revision="aokp_mb525" />
+  <project path="vendor/motorola" name="CyanogenDefy/proprietary_vendor_motorola" remote="github" revision="ics" />
+  <project path="device/motorola/jordan" name="tpruvot/android_device_motorola_jordan" remote="github" revision="aokp_mb526" />
   
   <project path="platform_manifest" name="AOKP/platform_manifest" remote="gh" revision="ics" />
 
