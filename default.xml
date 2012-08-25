@@ -274,6 +274,7 @@
   <project name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" path="vendor/tmobile/providers/ThemeManager" revision="refs/heads/ics" remote="gh" />
   <project name="CyanogenMod/android_vendor_tmobile_products_themes" path="vendor/tmobile/products/themes" revision="refs/heads/ics" remote="gh" />
 
+  <!-- note: for defy+, use "aokp_mb526" for jordan revision, and "ics-plus" for proprietary_vendor_motorola -->
   <project path="packages/apps/FileManager" name="CyanogenMod/android_packages_apps_FileManager" remote="gh" revision="gingerbread" />
   <project path="vendor/motorola" name="Kayant/proprietary_vendor_motorola" remote="github" revision="ics" />
   <project path="system/wlan/ti" name="tpruvot/android_system_wlan_ti" remote="github" revision="gingerbread" />
@@ -281,9 +282,8 @@
   <project path="packages/apps/HwaSettings" name="tpruvot/HwaSettings" remote="github" revision="ics" />
   <project path="packages/apps/MotoFM" name="tpruvot/android_packages_apps_MotoFM" remote="github" revision="jellybean" />
   <project path="packages/apps/Usb" name="tpruvot/android_packages_apps_Usb" remote="github" revision="ics" />
-  <project path="device/motorola/jordan" name="tpruvot/android_device_motorola_jordan" remote="github" revision="aokp_mb525" />
-  <project path="vendor/motorola" name="CyanogenDefy/proprietary_vendor_motorola" remote="github" revision="ics" />
-  <project path="device/motorola/jordan" name="tpruvot/android_device_motorola_jordan" remote="github" revision="aokp_mb526" />
+  <project path="device/motorola/jordan" name="Kayant/android_device_motorola_jordan" remote="github" revision="aokp_mb525" />
+  <project path="vendor/motorola" name="Kayant/proprietary_vendor_motorola" remote="github" revision="ics_aokp" />
   
   <project path="platform_manifest" name="AOKP/platform_manifest" remote="gh" revision="ics" />
 
