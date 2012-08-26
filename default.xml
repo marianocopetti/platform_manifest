@@ -252,7 +252,8 @@
   <project path="system/netd" name="tpruvot/android_system_netd" remote="github" revision="ics" />
   <project path="system/vold" name="AOKP/system_vold" remote="gh" revision="ics" />
 
-  <project path="vendor/aokp" name="Kayant/vendor_aokp_ics" remote="github" revision="ics" />
+  <!-- note: for defy+, use "aokp_mb526" for jordan revision, for vendor -->
+  <project path="vendor/aokp" name="Kayant/vendor_aokp_ics" remote="github" revision="aokp_mb525" />
   <project path="vendor/aokp/bot" name="AOKP/pseudo_buildbot" remote="gh" revision="ics" />
   <project path="vendor/qcom/opensource/omx/mm-core" name="AOKP/android_vendor_qcom_opensource_omx_mm-core" remote="gh" revision="ics" />
   <project path="vendor/qcom/opensource/omx/mm-video" name="AOKP/android_vendor_qcom_opensource_omx_mm-video" remote="gh" revision="ics" />
