@@ -28,7 +28,7 @@
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="bootable/recovery" name="tpruvot/android_bootable_recovery" remote="github" revision="ics" />
   <project path="cts" name="platform/cts" remote="aosp" revision="refs/tags/android-4.0.4_r1.2" />
-  <project path="dalvik" name="android_dalvik" remote="cm" revision="ics" />
+  <project path="dalvik" name="AOKP/platform_dalvik" remote="gh" revision="ics" />
   <project path="development" name="AOKP/platform_development" remote="gh" revision="ics" />
   <project path="device/common" name="device/common" remote="aosp" revision="refs/tags/android-4.0.4_r1.2" />
   <project path="device/generic/goldfish" name="device/generic/goldfish" remote="aosp" revision="refs/tags/android-4.0.4_r1.2" />
@@ -175,7 +175,7 @@
   <project path="hardware/cm" name="AOKP/hardware_cm" remote="gh" revision="ics" />
   <project path="hardware/broadcom/wlan" name="AOKP/android_hardware_broadcom_wlan" remote="gh" revision="ics" />
   <project path="hardware/invensense" name="platform/hardware/invensense" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
-  <project path="hardware/libhardware" name="android_hardware_libhardware" remote="cm" revision="ics" />
+  <project path="hardware/libhardware" name="AOKP/android_hardware_libhardware" remote="gh" revision="ics" />
   <project path="hardware/libhardware_legacy" name="tpruvot/android_hardware_libhardware_legacy" remote="github" revision="ics" />
   <project path="hardware/qcom/display" name="AOKP/android_hardware_qcom_display" remote="gh" revision="ics" />
   <project path="hardware/qcom/camera" name="AOKP/android_hardware_qcom_camera" remote="gh" revision="ics" />
