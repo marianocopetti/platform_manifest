@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="jordan-kernel" name="Quarx2k/jordan-kernel" remote="github" revision="2.6.32" />
+  <project path="kernel/moto/jordan" name="Quarx2k/jordan-kernel" remote="github" revision="2.6.32" />
 </manifest>
 
