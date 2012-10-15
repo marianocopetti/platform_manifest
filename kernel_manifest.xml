@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+    <remote  name="github"
+           fetch="https://github.com/" />
+
   <project path="kernel/moto/jordan" name="Quarx2k/jordan-kernel" remote="github" revision="2.6.32" />
+
 </manifest>
+
 
