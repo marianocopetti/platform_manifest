@@ -8,7 +8,7 @@
            fetch="https://github.com/"
            review="gerrit.aokp.co" />
 
-  <remote  name="github"
+  <remote  name="cm"
            fetch="https://github.com/CyanogenMod/"
            review="review.cyanogenmod.com" />
 
