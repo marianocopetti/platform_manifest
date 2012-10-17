@@ -334,5 +334,6 @@
   <project path="packages/apps/DroidSSHd" name="tpruvot/android_external_droidsshd" remote="github" revision="jellybean" />
   <project path="packages/apps/FileManager" name="android_packages_apps_FileManager" remote="cm" revision="gingerbread" />
 <project path="jordan-kernel" name="Quarx2k/jordan-kernel" remote="github" revision="2.6.32" />
+<project path="system/wlan/ti" name="tpruvot/android_system_wlan_ti" revision="gingerbread" />
    
 </manifest>
